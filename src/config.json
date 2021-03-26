@@ -1,0 +1,22 @@
+{
+    "usuarios": [
+        {
+            "nombres":"Juan",
+            "apellidos": "Perez",
+            "correo":"jaunPerez@gmail.com",
+            "movil": "3022224082"
+        },
+        {
+            "nombres":"Juan2",
+            "apellidos": "Perez2",
+            "correo":"jaunPerez2@gmail.com",
+            "movil": "3022224083"
+        },
+        {
+            "nombres":"Juan 3",
+            "apellidos": "Perez 3",
+            "correo":"jaunPerez3@gmail.com",
+            "movil": "3022224082 -3"
+        }
+    ]
+}
